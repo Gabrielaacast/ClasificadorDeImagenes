@@ -11,8 +11,8 @@ Código de ejemplo para clasificación de imágenes usando Streamlit
 - pip install keras
 - pip install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all] streamlit
 
-# 2. Crear el código de la aplicación-Archivo.py
+# 2. Crear el código de la aplicación-CNN_for_signs.py
 
 # 3. Ejecutar el código: 
-streamlit run Archivo.py
+streamlit run CNN_for_signs.py
 
